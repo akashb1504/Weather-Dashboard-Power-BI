@@ -1,7 +1,7 @@
-# 🌤️ Real-time Weather Dashboard in Power BI
+# 🌤️ Weather Dashboard in Power BI
 
-A visually rich, real-time **Weather & Air Quality Dashboard** built with **Power BI** and **WeatherAPI**.  
-It provides live weather metrics, forecasts, air quality data, and more — all updated dynamically.
+A visually rich, **Weather & Air Quality Dashboard** built with **Power BI** and **WeatherAPI**.  
+It provides weather metrics, forecasts, air quality data, and more — all updated dynamically.
 
 ![Dashboard Preview](Dashboard.png)
 
@@ -12,7 +12,7 @@ It provides live weather metrics, forecasts, air quality data, and more — all 
 - **Current Weather Conditions**: Temperature, weather description, and city selector.
 - **City Switching**: Quickly switch between multiple cities (Hyderabad, Ajmer, Chennai, Delhi, etc.).
 - **7-Day Forecast**: Temperature trends and weather icons for upcoming days.
-- **Sunrise & Sunset Times**: Auto-updated daily.
+- **Sunrise & Sunset Times**:
 - **Humidity, Wind Speed, Visibility, Pressure, UV Index, Precipitation**.
 - **Air Quality Index (AQI)** with pollutants:
   - NO₂  
