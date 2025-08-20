@@ -27,8 +27,10 @@ It provides weather metrics, forecasts, air quality data, and more — all updat
 
 ## 🛠️ Tech Stack
 
-- **Power BI Desktop**
-- **WeatherAPI.com** (Live weather & AQI data)
+- Power BI Desktop
+- Power Query Editor (Data Cleaning & Transformation)
+- Data Modeling (Relationships & Measures)
+- WeatherAPI.com (Weather & AQI data source)
 
 
 ---
